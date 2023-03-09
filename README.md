@@ -77,8 +77,3 @@ ___
 
 <img src="./ScreenshotsForReadme/Size-1.png" height="500"/>
 <img src="./ScreenshotsForReadme/Size-2.png" height="500"/>
-
-# Author
-Проект выполнен студентом Сибирского Федерального Университета Института Космических и Информационных Технологий группы `КИ20-17/1Б` `Смыковым Алексеем`.
-
-Мой [Github](https://github.com/DiabloZX)
