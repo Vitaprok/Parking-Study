@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 94e7430ef7610124d8fd5ef51bbd29eb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Finlandica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20f54ab688973de4f81256787b06ac7f, type: 3}
+  - {fileID: 12800000, guid: 0263e8baddebc9b449a22abe239b7cc7, type: 3}
+  - {fileID: 12800000, guid: 30c3e6e0ac647754c8d4dfaa53b478d6, type: 3}
+  - {fileID: 12800000, guid: c2932cfbc86d5d8449a89bb97c1354a0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
