@@ -73,12 +73,6 @@ ___
 <img src="./ScreenshotsForReadme/Avatar-2.png" height="200"/>
 
 ___
-### Пример использования маски для округления квадратных изображения аватара пользователя: 
-
-<img src="./ScreenshotsForReadme/Avatar-1.png"/>
-<img src="./ScreenshotsForReadme/Avatar-2.png" height="200"/>
-
-___
 ### Пример использование якорей (Anchers) на элементах для верстки на разных размерах экранов: 
 
 <img src="./ScreenshotsForReadme/Size-1.png" height="500"/>
