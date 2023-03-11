@@ -29,7 +29,7 @@
 
 # Download & Use
 Скачать последнюю версию вы можете по следующим ссылкам:
-- [apks](https://github.com/DiabloZX/Parking-Study/tree/Latest/Versions)
+- [apk](https://github.com/DiabloZX/Parking-Study/releases/download/Latest/Parking.0.0.6.apk)
 - [Release](https://github.com/DiabloZX/Parking-Study/releases/tag/Latest)
 - [Source code zip](https://github.com/DiabloZX/Parking-Study/archive/refs/tags/Latest.zip)
 - [Source code tar.gz](https://github.com/DiabloZX/Parking-Study/archive/refs/tags/Latest.tar.gz)
